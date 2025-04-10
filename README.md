@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer!<br>love coding and the stress it comes with ;)
+
 
 
 ## 🌐 Socials:
